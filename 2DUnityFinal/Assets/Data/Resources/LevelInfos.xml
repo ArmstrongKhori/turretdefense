@@ -1,0 +1,37 @@
+<LevelInfos>
+  <info>
+    <name>test</name>
+    <layout>A</layout>
+    <scenario>test</scenario>
+    <turrets>
+      <entry>Pellet</entry>
+    </turrets>
+  </info>
+  <info>
+    <name>Level 1</name>
+    <layout>A</layout>
+    <scenario>Level 1</scenario>
+    <turrets>
+      <entry>Pellet</entry>
+      <entry>Pellet</entry>
+    </turrets>
+  </info>
+  <info>
+    <name>Roundabout</name>
+    <layout>A</layout>
+    <scenario>Roundabout</scenario>
+    <turrets>
+      <entry>Pellet</entry>
+      <entry>Pellet</entry>
+      <entry>Pellet</entry>
+    </turrets>
+  </info>
+  <info>
+    <name>Death March</name>
+    <layout>A</layout>
+    <scenario>Death March</scenario>
+    <turrets>
+      <entry>Pellet</entry>
+    </turrets>
+  </info>
+</LevelInfos>

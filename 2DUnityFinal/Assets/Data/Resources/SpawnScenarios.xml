@@ -1,0 +1,170 @@
+<SpawnScenarios>
+  <scenario>
+    <name>test</name>
+    <entry>
+      <SequenceType>Single Scout</SequenceType>
+      <x>-1.0</x>
+      <y>-1.0</y>
+      <Timing>2.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Single Scout</SequenceType>
+      <x>1.0</x>
+      <y>-1.0</y>
+      <Timing>6.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Single Scout</SequenceType>
+      <x>-1.0</x>
+      <y>1.0</y>
+      <Timing>10.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Single Scout</SequenceType>
+      <x>1.0</x>
+      <y>1.0</y>
+      <Timing>14.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>-1.0</y>
+      <Timing>24.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>-1.0</y>
+      <Timing>28.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>1.0</y>
+      <Timing>32.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>1.0</y>
+      <Timing>36.0</Timing>
+    </entry>
+  </scenario>
+  <scenario>
+    <name>Level 1</name>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.5</y>
+      <Timing>2.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>-0.5</y>
+      <Timing>10.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>0.5</y>
+      <Timing>18.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.5</y>
+      <Timing>26.0</Timing>
+    </entry>
+  </scenario>
+  <scenario>
+    <name>Roundabout</name>
+    <entry>
+      <SequenceType>Blind March</SequenceType>
+      <x>0.0</x>
+      <y>1.0</y>
+      <Timing>0.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Blind March</SequenceType>
+      <x>0.0</x>
+      <y>1.0</y>
+      <Timing>8.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Blind March</SequenceType>
+      <x>0.0</x>
+      <y>1.0</y>
+      <Timing>16.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Blind March</SequenceType>
+      <x>0.0</x>
+      <y>1.0</y>
+      <Timing>24.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>0.0</x>
+      <y>-1.0</y>
+      <Timing>2.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>0.0</y>
+      <Timing>10.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.0</y>
+      <Timing>18.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>0.0</x>
+      <y>-1.0</y>
+      <Timing>26.0</Timing>
+    </entry>
+  </scenario>
+  <scenario>
+    <name>Death March</name>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.5</y>
+      <Timing>2.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>0.5</y>
+      <Timing>12.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.5</y>
+      <Timing>22.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>0.5</y>
+      <Timing>27.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>1.0</x>
+      <y>0.5</y>
+      <Timing>32.0</Timing>
+    </entry>
+    <entry>
+      <SequenceType>Scout Line</SequenceType>
+      <x>-1.0</x>
+      <y>0.5</y>
+      <Timing>35.0</Timing>
+    </entry>
+  </scenario>
+</SpawnScenarios>

@@ -1,0 +1,39 @@
+<SpriteAtlas>
+  <entry>
+    <name>test</name>
+    <x>0</x>
+    <y>0</y>
+    <width>256</width>
+    <height>256</height>
+  </entry>
+
+  <entry>
+    <name>Creep</name>
+    <x>768</x>
+    <y>0</y>
+    <width>256</width>
+    <height>256</height>
+  </entry>
+
+  <entry>
+    <name>icon_level_Level 1</name>
+    <x>0</x>
+    <y>768</y>
+    <width>256</width>
+    <height>256</height>
+  </entry>
+  <entry>
+    <name>icon_level_Roundabout</name>
+    <x>256</x>
+    <y>768</y>
+    <width>256</width>
+    <height>256</height>
+  </entry>
+  <entry>
+    <name>icon_level_Death March</name>
+    <x>512</x>
+    <y>768</y>
+    <width>256</width>
+    <height>256</height>
+  </entry>
+</SpriteAtlas>

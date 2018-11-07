@@ -1,0 +1,47 @@
+<SpawnSequences>
+	<sequence>
+		<name>Single Scout</name>
+		<entry>
+			<CreepType>Scout</CreepType>
+			<Timing>0.0</Timing>
+		</entry>
+	</sequence>
+  <sequence>
+    <name>Scout Line</name>
+    <entry>
+      <CreepType>Scout</CreepType>
+      <Timing>0.0</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>0.8</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>1.6</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>2.4</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>3.2</Timing>
+    </entry>
+  </sequence>
+  <sequence>
+    <name>Blind March</name>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>0.0</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>1.0</Timing>
+    </entry>
+    <entry>
+      <CreepType>Sheep</CreepType>
+      <Timing>2.0</Timing>
+    </entry>
+  </sequence>
+</SpawnSequences>
